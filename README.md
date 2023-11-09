@@ -1,0 +1,2 @@
+# botom
+JS pagjna dinamica
